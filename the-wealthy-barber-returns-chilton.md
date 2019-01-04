@@ -23,3 +23,17 @@
   Canadian's income -- it would be interesting to see the entire distribution
   of Canadian incomes vs. cost of food since the 1940s, since taking the mean
   is heavily skewed by outlying incomes such as the author's).
+
+- Say "I can't afford it".
+
+- Beware of having more taste than money (the positive feedback home
+  renovation).
+
+- Leave credit and debit cards at home, and bring cash.
+
+- Lines of credit are both convenient and insidious.
+
+- Good debt is defined as assets that increase in value faster than their
+  interest accumulates, _and_ can be paid off in full before retirement, _and_
+  can be paid off while still meeting your savings goals. In other words, live
+  in a house you can afford!
