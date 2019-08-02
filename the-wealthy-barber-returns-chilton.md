@@ -37,3 +37,17 @@
   interest accumulates, _and_ can be paid off in full before retirement, _and_
   can be paid off while still meeting your savings goals. In other words, live
   in a house you can afford!
+
+- Pay yourself first: save first, spend what's left.
+
+- Pay yourself first, start now, live within your means.
+
+- Don't look at potential inheritance as an excuse to avoid saving today.
+
+- Track expenditures comprehensively for several months, and plot them by
+  category.
+  Use the feedback from this exercise to figure out how to spend "efficiently"
+  in terms of "joy units" derived from your expenses.
+
+- The latte factor: a little spending adds up, collectively.
+  Use a spending summary to track this.
