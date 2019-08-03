@@ -51,3 +51,14 @@
 
 - The latte factor: a little spending adds up, collectively.
   Use a spending summary to track this.
+
+- Savings amount: 15% of your gross income, assuming you start saving from 25
+  and continue to 65.
+  Many factors affect this, including when you want to retire, inflation,
+  increasing tax rates, CPP being more stingy, etc.
+  If you intend to work 30 years instead of 40, saving 30% of your gross income
+  is required to match the person who started saving 10 years earlier.
+
+- Defined-benefit plans are forced savings that is tax deductible, since this
+  is part of the overall compensation package negotiated by the employee with
+  their employer.
