@@ -62,3 +62,31 @@
 - Defined-benefit plans are forced savings that is tax deductible, since this
   is part of the overall compensation package negotiated by the employee with
   their employer.
+
+- Know your post-deductions income, and use this to convert purchaes into your
+  time.
+
+- Spend extra money on experiences, not possessions (the best things in life
+  aren't things).
+
+- The happiest people live within their means, since they understand that
+  happiness is derived from inexpensive things such as social interaction.
+  Whereas trying to acquire happiness by buying material goods just leads to
+  disappointment and wanting to buy even more stuff.
+
+- Two themes: simplictiy is sophistication, and human nature is an unignorable
+  factor (often for the worse).
+
+- Don't trust financial advisors who think they're clairvoyant.
+
+- Seemingly small differences in return make exponential differences in the
+  long term.
+
+- Figure out how much you should be contributing annually to your RRSP (TFSA,
+  too) and set up a pre-authorized chequing plan to have one-twelfth of that
+  amount transferred monthly to your RRSP.
+  Then, apply to the CRA for a tax reduction at source (to reduce your income
+  tax at work) to reflect the deductible RRSP contributions.
+
+- Go with term insurance policies until your TFSA and RRSP are maxed out, and
+  your mortgage paid off.
